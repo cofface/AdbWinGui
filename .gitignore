@@ -6,3 +6,4 @@ Debug
 /AdbWinGui/Ribbon.rc
 /AdbWinGui/Ribbon.bml
 /AdbWinGui/Ribbon.h
+/DDMLib/DDMLib.vcxproj.user
